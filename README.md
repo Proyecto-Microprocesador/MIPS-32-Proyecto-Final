@@ -8,7 +8,7 @@ Universidad de Guadalajara – CUCEI
 | Integrante | Rol |
 |---|---|
 | Integrante 1 Hector Manuel Rios Avalos | Líder / README / integración (módulo top) |
-| Integrante 2 (nombre) | Memorias y Banco de Registros |
+| Integrante 2 Kevin Ivan Castro Nieves | Memorias y Banco de Registros |
 | Integrante 3 Diego Ramirez Sanchez | ALU, ALU Control, extensor de signo y desplazadores |
 | Integrante 4 (nombre) | Unidad de Control y testbenches de integración |
 
