@@ -10,7 +10,7 @@ Universidad de Guadalajara – CUCEI – División de Electrónica y Computació
 | Integrante 1 (Hector Manuel Rios Avalos) | Líder / README / integración (módulo top) |
 | Integrante 2 () | Memorias y Banco de Registros |
 | Integrante 3 () | ALU, ALU Control, extensor de signo y desplazadores |
-| Integrante 4 () | Unidad de Control y testbenches de integración |
+| Integrante 4 (Sibilina Alejandra Julian Ramirez) | Unidad de Control y testbenches de integración |
 
 ## Descripción
 
