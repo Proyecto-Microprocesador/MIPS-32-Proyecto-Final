@@ -8,8 +8,8 @@ Universidad de Guadalajara – CUCEI – División de Electrónica y Computació
 | Integrante | Rol |
 |---|---|
 | Integrante 1 (Hector Manuel Rios Avalos) | Líder / README / integración (módulo top) |
-| Integrante 2 () | Memorias y Banco de Registros |
-| Integrante 3 () | ALU, ALU Control, extensor de signo y desplazadores |
+| Integrante 2 (Kevin Ivan Castro Nieves) | Memorias y Banco de Registros |
+| Integrante 3 (Diego Ramirez Sanchez) | ALU, ALU Control, extensor de signo y desplazadores |
 | Integrante 4 (Sibilina Alejandra Julian Ramirez) | Unidad de Control y testbenches de integración |
 
 ## Descripción
@@ -41,7 +41,7 @@ Detalle de formatos, opcodes y sintaxis en [`docs/tabla_instrucciones.md`](docs/
 
 - [x] **Sprint 1** – Organización del repo y módulos básicos: `ProgramCounter`, `Sumador`, `Mux2a1`, `ExtensorSigno`, `ShiftLeft2`, `ShiftLeftJ`
 - [x] **Sprint 2** – Memoria de Instrucciones, Banco de Registros, Memoria de Datos
-- [ ] **Sprint 3** – ALU y ALU Control
+- [x] **Sprint 3** – ALU y ALU Control
 - [ ] **Sprint 4** – Unidad de Control
 - [ ] **Sprint 5** – Integración (`MIPS_Top`), programa de prueba y documentación final
 
